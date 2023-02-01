@@ -1,0 +1,67 @@
+{
+    "menu": [
+        {
+            "kategori": "Mie Ayam",
+            "nama": "Mie Ayam",
+            "deskripsi": "Mie ayam polos tanpa tambahan topping apapun",
+            "harga": 9000,
+            "gambar": "Mie_ayam.jpg"
+        },
+        {
+            "kategori": "Mie Ayam",
+            "nama": "Mie Ayam Pangsit",
+            "deskripsi": "Mie Ayam dengan tambahan topping pangsit.",
+            "harga": 10000,
+            "gambar": "Mie_ayam_pangsit.jpg"
+        },
+        {
+            "kategori": "Mie Ayam",
+            "nama": "Mie Ayam Bakso",
+            "deskripsi": "Mie Ayam dengan tambahan topping bakso.",
+            "harga": 10000,
+            "gambar": "Mie_ayam_bakso.jpg"
+        },
+        {
+            "kategori": "Mie Ayam",
+            "nama": "Mie Ayam Pangsit Bakso",
+            "deskripsi": "Mie Ayam dengan tambahan topping bakso dan pangsit.",
+            "harga": 12000,
+            "gambar": "Mie_ayam_pangsit_bakso.jpg"
+        },
+        {
+            "kategori": "Topping",
+            "nama": "Pangsit",
+            "deskripsi": "Tambahan topping pangsit untuk mie ayam",
+            "harga": 2000,
+            "gambar": "pangsit-basah.jpg"
+        },
+        {
+            "kategori": "Topping",
+            "nama": "Bakso",
+            "deskripsi": "Tambahan topping bakso untuk mie ayam",
+            "harga": 1000,
+            "gambar": "bakso.jpg"
+        },
+        {
+            "kategori": "Minuman",
+            "nama": "Es Milo",
+            "deskripsi": "Milo dengan tambahan es",
+            "harga": 5000,
+            "gambar": "ES-MILO.jpg"
+        },
+        {
+            "kategori": "Minuman",
+            "nama": "Es Cappucino Cincau",
+            "deskripsi": "Es cappucino dengan tambahan cincau",
+            "harga": 5000,
+            "gambar": "cappucino-cincau.png"
+        },
+        {
+            "kategori": "Minuman",
+            "nama": "Es Jeruk",
+            "deskripsi": "",
+            "harga": 5000,
+            "gambar": "ES-JERUK.jpg"
+        }
+    ]
+}
